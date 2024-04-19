@@ -11,7 +11,7 @@
   
   Linkedin: https://www.linkedin.com/in/dsouzasharon2k/
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjd-2000)](https://github.com/anuraghazra/github-readme-stats)
+  [![Sharon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsouzasharon2k)](https://github.com/dsouzasharon2k/github-readme-stats)
 
 <!---
 sjd-2000/sjd-2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
